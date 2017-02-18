@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private void test(){
         //just a test method
     }
+
+    private void testPush(){
+        //just a test method for push
+    }
 }
